@@ -44,4 +44,4 @@ print("Product of two arrays is:",result)
 ## OUTPUT:
 ![output](1.png)
 ## RESULT:
-
+Thus the program for multiplying two arrays runs successfully
